@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Who Am I?"
+date:   2014-07-26 21:34:00
+categories: whoami
+---
+
+My name is Andrew Pietla. You may or may not be here because of something I posted on my blog. You may be here because of a neat trick I did. But here I am. I'm open to job offers of any kind.

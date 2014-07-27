@@ -10,9 +10,3 @@ github_username:  rallias
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-collections:
-  rfcs:
-    output: true
-    permalink: /rfcs/
-    collection: "RFC's gone CRAZY!"

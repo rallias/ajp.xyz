@@ -23,4 +23,4 @@ The goal is raising attack costs, and being aware. You gotta watch for this kind
 
 So what should you do? Look into moving your SSH access to VPN. Do an update once in a blue moon. Do your homework, find new security layers, apply them properly.
 
-AKA: Do your damn job.
+TL;DR: Do your damn job.

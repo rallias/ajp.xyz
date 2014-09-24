@@ -2,7 +2,7 @@
 layout: post
 title:  "Least Allowable Permissions Versus Most Allowable Restrictions and Why Your Ass Got Lit Today"
 date:   2014-07-26 21:34:00
-categories: whoami
+categories: security
 ---
 
 I don't think I'm particularily heinous. I have a security policy that involves restricting who has access to what, beyond the normal I need a password deal. I have a tendency to go all in, do research, and apply more restrictive security policies. Today, that saved my ass.

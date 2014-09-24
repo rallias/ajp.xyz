@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Least Allowable Permissions Versus Most Allowable Restrictions and Why Your Ass Got Lit Today"
-date:   2014-07-26 21:34:00
+date:   2014-09-24 12:00:00
 categories: security
 ---
 

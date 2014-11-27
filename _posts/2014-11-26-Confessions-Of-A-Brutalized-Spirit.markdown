@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chilling Effect In Action"
+title:  "Confessions Of A Brutalized Spirit"
 date:   2014-11-26 12:00:00
 categories: history
 ---

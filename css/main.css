@@ -19,7 +19,7 @@ body {
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { color: #2a7ae2; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
+a:hover   { color: #fff; text-decoration: underline; }
 a:visited { color: #205caa; }
 
 /* Utility */
@@ -44,7 +44,7 @@ a:visited { color: #205caa; }
   border-top: 5px solid #333;
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
-  background-color: white;
+  background-color: black;
 }
 
 .site-title,
@@ -85,6 +85,7 @@ a:visited { color: #205caa; }
   font-weight: 300;
   letter-spacing: -.5px;
   margin-bottom: 15px;
+  color: #818181;
 }
 
 .site-footer .column { float: left; margin-bottom: 15px; }
@@ -137,12 +138,16 @@ a:visited { color: #205caa; }
 
 .page-content {
   padding: 30px 0;
-  background-color: #fff;
+  background-color: #000;
 }
 
 
 /* Home styles */
 /* ----------------------------------------------------------*/
+
+.home {
+  color: #818181;
+}
 
 .home h1 { margin-bottom: 25px; }
 
@@ -173,6 +178,7 @@ a:visited { color: #205caa; }
   letter-spacing: -1.75px;
   line-height: 1;
   font-weight: 300;
+  color: #818181;
 }
 
 .post-header .meta {
@@ -181,7 +187,10 @@ a:visited { color: #205caa; }
   margin-top: 5px;
 }
 
-.post-content { margin: 0 0 30px; }
+.post-content {
+  margin: 0 0 30px;
+  color: #818181;
+}
 
 .post-content > * { margin: 20px 0; }
 
@@ -228,7 +237,7 @@ a:visited { color: #205caa; }
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
-  background-color: #eef;
+  background-color: #000;
   padding: 8px 12px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -352,13 +361,16 @@ a:visited { color: #205caa; }
 
 @media screen and (max-width: 600px) {
 
-  .wrap { padding: 0 12px; }
+  .wrap {
+    padding: 0 12px;
+    color: #818181;
+  }
 
   .site-nav {
     position: fixed;
     z-index: 10;
     top: 14px; right: 8px;
-    background-color: white;
+    background-color: black;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;

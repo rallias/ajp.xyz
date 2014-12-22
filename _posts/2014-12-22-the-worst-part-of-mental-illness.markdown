@@ -2,7 +2,7 @@
 layout: post
 title:  "The Worst Part of Mental Illness"
 date:   2014-12-22 12:00:00
-categories: history
+categories: chesttalk
 ---
 
 People always say that mental illness is horrible, that the people afflicted with it shouldn't be called retards, or that they need to be _protected_ for some reason or another. Absolutely I'll concede that having a mental illness is a negative thing.

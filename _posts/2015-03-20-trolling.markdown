@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Trolling"
+date:   2015-03-20 12:00:00
+categories: activism
+---
+
+I am a troll. I'll freely admit this fact, although I don't feel that this is cause for action.
+
+I will say anything, do anything, make fun of anything for the sole purpose of getting a laugh out of me, my peers, and hopefully everyone involved. I'll pop 'dad jokes', twists on language, nearly anything to make such laughs. I generally try to have everyone involved laughing. But there is a non-zero chance of someone's feelings being hurt.
+
+Why do I bring this up? Because there are people that insist there needs to be a law against 'cyber bullying', 'trolling', whatnot. While in principle I agree that there's some issues with straight up bullying, I feel it is not the pervue of the law, as I'm about to explain.
+
+First off, it's literally a matter of law that 'Congress shall make no law \[...\] abridging the freedom of speech \[...\].' Over time, this was extended to apply to States along with the Federal Government (see (Everson v. Board of Education, 1947)[http://en.wikipedia.org/wiki/Everson_v._Board_of_Education]). Even if the Federal Government made such a law making 'cyber bullying' unlawful, the very first case where they try and prosecute someone for such a violation would be challanged as unconstitutional, and for good reason.
+
+Second off, I feel that it isn't the purvue of the government to make a stand against 'cyber bullying'. The government has a hard enough time fighting a drug war, enforcing health care reform, enabling it's donors network monopolies, that realistically, it shouldn't try to add to it's own burden. Instead, this is the responsibility of the service providers, the Twitter, Facebook, etc. to educate users on the availability of report and furthermore block functions. As so many people gleefully announce, the only way to reduce bullying is to ignore it.
+
+Third off, such a law would have unintentional consequences. We're already at a point in the United States that people don't feel free to speak their mind, to oppose unreasonable action, to say that something that someone's doing is bad. Such a law would put criminal charges against people who are perceived as 'bullying'. Imagine if I said 'guns are an essential part of american civil liberties' and someone took that to be 'bullying'. They could easily go to the police, who would file charges against me for 'bullying', and I'd have to spend an agregious amount of money on a criminal defense for something that's a completely reasonable action to do. In fact, it happens fairly often with other crimes. How often do you hear about false accusations of rape, murder, theft, hacking, etc.? While I'm not advocating the repealment of laws regarding those crimes (although I do feel the definition and standard of proof on hacking is sorely improper), these are real criminal offenses that people are charged with on a regular basis even with the standard of proof. Adding a new crime very publicly with an extremely low standard of proof is somewhat offensive in it's conception.
+
+I have no problem whatsoever with service providers such as Facebook, Twitter, etc. defining rules for their own service. It's their service, they can run it however they want. However, I am opposed to a federal or state law limiting the freedom to speak freely 'when it hurts peoples feelings'.
+
+I say this as someone who's been bullied in the past, present, and probably future.
+
+The law is not the answer.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sudo Broken? Good To Know Alternative."
-date:   2015-03-20 12:00:00
+date:   2015-04-12 12:00:00
 categories: activism
 ---
 
